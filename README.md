@@ -1,5 +1,5 @@
 # Machine-Learning-
 
-*** Instructor: 
-**  Andrew Ng
-    American computer scientist
+**Instructor:** 
+Andrew Ng
+American computer scientist
